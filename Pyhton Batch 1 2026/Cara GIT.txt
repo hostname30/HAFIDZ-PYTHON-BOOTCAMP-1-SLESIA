@@ -1,0 +1,36 @@
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git add .
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git commit -m "oke"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Kav1ar@DESKTOP-5MMI2D3.(none)')
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git config --global user.email "you@example.com"
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git config --global user.name "Your Name"
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> 
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git commit -m "oke"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git push origin main
+info: please complete authentication in your browser...
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git push origin main
+info: please complete authentication in your browser...
+Everything up-to-date
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> git push origin main
+Everything up-to-date
+PS D:\dokumen\dokumen\projek\Pyhton Batch 1 2026\HAFIDZ-PYTHON-BOOTCAMP-1-SLESIA> 
